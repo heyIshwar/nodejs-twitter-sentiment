@@ -1,0 +1,876 @@
+[
+	{
+		"tweet": "हनुमान जयंती के पावन अवसर पर देशवासियों को हार्दिक शुभकामनाएं। भक्ति, शक्ति, समर्पण और अनुशासन के प्रतीक पवनपुत्र… https://t.co/aTYcfLajZo",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [],
+			"tokens": [
+				"हनुमान",
+				"जयंती",
+				"के",
+				"पावन",
+				"अवसर",
+				"पर",
+				"देशवासियों",
+				"को",
+				"हार्दिक",
+				"शुभकामनाएं।",
+				"भक्ति",
+				"शक्ति",
+				"समर्पण",
+				"और",
+				"अनुशासन",
+				"के",
+				"प्रतीक",
+				"पवनपुत्र…",
+				"https",
+				"t",
+				"co",
+				"atycflajzo"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Deeply anguished by the passing away of Indian-American journalist Mr. Brahm Kanchibotla. He will be remembered for… https://t.co/gNAAYsr17N",
+		"result": {
+			"score": -3,
+			"comparative": -0.14285714285714285,
+			"calculation": [
+				{
+					"anguished": -3
+				}
+			],
+			"tokens": [
+				"deeply",
+				"anguished",
+				"by",
+				"the",
+				"passing",
+				"away",
+				"of",
+				"indian-american",
+				"journalist",
+				"mr",
+				"brahm",
+				"kanchibotla",
+				"he",
+				"will",
+				"be",
+				"remembered",
+				"for…",
+				"https",
+				"t",
+				"co",
+				"gnaaysr17n"
+			],
+			"words": [
+				"anguished"
+			],
+			"positive": [],
+			"negative": [
+				"anguished"
+			]
+		}
+	},
+	{
+		"tweet": "देशवासियों की यही वो भावना है, जो कोरोना महामारी के समय सबसे बड़ा संबल है। #IndiaFightsCorona https://t.co/ija18XLrJ2",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [],
+			"tokens": [
+				"देशवासियों",
+				"की",
+				"यही",
+				"वो",
+				"भावना",
+				"है",
+				"जो",
+				"कोरोना",
+				"महामारी",
+				"के",
+				"समय",
+				"सबसे",
+				"बड़ा",
+				"संबल",
+				"है।",
+				"indiafightscorona",
+				"https",
+				"t",
+				"co",
+				"ija18xlrj2"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "You can be distant and you can be social.\n\nA great video with relevant messages. Have a look. https://t.co/acVZRoF1Yd",
+		"result": {
+			"score": 3,
+			"comparative": 0.13636363636363635,
+			"calculation": [
+				{
+					"great": 3
+				}
+			],
+			"tokens": [
+				"you",
+				"can",
+				"be",
+				"distant",
+				"and",
+				"you",
+				"can",
+				"be",
+				"social",
+				"a",
+				"great",
+				"video",
+				"with",
+				"relevant",
+				"messages",
+				"have",
+				"a",
+				"look",
+				"https",
+				"t",
+				"co",
+				"acvzrof1yd"
+			],
+			"words": [
+				"great"
+			],
+			"positive": [
+				"great"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Spoke to His Majesty Sultan of Oman about COVID-19 and how to limit its impact.  Also expressed thanks for HM's per… https://t.co/s7Iu1tV3fw",
+		"result": {
+			"score": 2,
+			"comparative": 0.08,
+			"calculation": [
+				{
+					"thanks": 2
+				}
+			],
+			"tokens": [
+				"spoke",
+				"to",
+				"his",
+				"majesty",
+				"sultan",
+				"of",
+				"oman",
+				"about",
+				"covid-19",
+				"and",
+				"how",
+				"to",
+				"limit",
+				"its",
+				"impact",
+				"also",
+				"expressed",
+				"thanks",
+				"for",
+				"hm's",
+				"per…",
+				"https",
+				"t",
+				"co",
+				"s7iu1tv3fw"
+			],
+			"words": [
+				"thanks"
+			],
+			"positive": [
+				"thanks"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Exchanged thoughts with @SwedishPM Stefan Lofven about the COVID-19 pandemic and ways to fight it.  We agreed to ex… https://t.co/dFpGQnkBcK",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [
+				{
+					"agreed": 1
+				},
+				{
+					"fight": -1
+				}
+			],
+			"tokens": [
+				"exchanged",
+				"thoughts",
+				"with",
+				"@swedishpm",
+				"stefan",
+				"lofven",
+				"about",
+				"the",
+				"covid-19",
+				"pandemic",
+				"and",
+				"ways",
+				"to",
+				"fight",
+				"it",
+				"we",
+				"agreed",
+				"to",
+				"ex…",
+				"https",
+				"t",
+				"co",
+				"dfpgqnkbck"
+			],
+			"words": [
+				"agreed",
+				"fight"
+			],
+			"positive": [
+				"agreed"
+			],
+			"negative": [
+				"fight"
+			]
+		}
+	},
+	{
+		"tweet": "Always better to take that extra precaution. Will help you and those around you.\n\nI commend the @timesofindia group… https://t.co/j7ds0uVXC1",
+		"result": {
+			"score": 6,
+			"comparative": 0.2608695652173913,
+			"calculation": [
+				{
+					"commend": 2
+				},
+				{
+					"help": 2
+				},
+				{
+					"better": 2
+				}
+			],
+			"tokens": [
+				"always",
+				"better",
+				"to",
+				"take",
+				"that",
+				"extra",
+				"precaution",
+				"will",
+				"help",
+				"you",
+				"and",
+				"those",
+				"around",
+				"you",
+				"i",
+				"commend",
+				"the",
+				"@timesofindia",
+				"group…",
+				"https",
+				"t",
+				"co",
+				"j7ds0uvxc1"
+			],
+			"words": [
+				"commend",
+				"help",
+				"better"
+			],
+			"positive": [
+				"commend",
+				"help",
+				"better"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Outstanding gesture by the @DalmiaBharat Group. Every contribution matters and will lead to a healthier India.… https://t.co/5g3gfczvMD",
+		"result": {
+			"score": 6,
+			"comparative": 0.2857142857142857,
+			"calculation": [
+				{
+					"matters": 1
+				},
+				{
+					"outstanding": 5
+				}
+			],
+			"tokens": [
+				"outstanding",
+				"gesture",
+				"by",
+				"the",
+				"@dalmiabharat",
+				"group",
+				"every",
+				"contribution",
+				"matters",
+				"and",
+				"will",
+				"lead",
+				"to",
+				"a",
+				"healthier",
+				"india",
+				"…",
+				"https",
+				"t",
+				"co",
+				"5g3gfczvmd"
+			],
+			"words": [
+				"matters",
+				"outstanding"
+			],
+			"positive": [
+				"matters",
+				"outstanding"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "I appreciate the Zee Group for contributing to PM-CARES. This will make our fight against COVID-19 even stronger.… https://t.co/7NxeJ7dsys",
+		"result": {
+			"score": 3,
+			"comparative": 0.13043478260869565,
+			"calculation": [
+				{
+					"stronger": 2
+				},
+				{
+					"fight": -1
+				},
+				{
+					"appreciate": 2
+				}
+			],
+			"tokens": [
+				"i",
+				"appreciate",
+				"the",
+				"zee",
+				"group",
+				"for",
+				"contributing",
+				"to",
+				"pm-cares",
+				"this",
+				"will",
+				"make",
+				"our",
+				"fight",
+				"against",
+				"covid-19",
+				"even",
+				"stronger",
+				"…",
+				"https",
+				"t",
+				"co",
+				"7nxej7dsys"
+			],
+			"words": [
+				"stronger",
+				"fight",
+				"appreciate"
+			],
+			"positive": [
+				"stronger",
+				"appreciate"
+			],
+			"negative": [
+				"fight"
+			]
+		}
+	},
+	{
+		"tweet": "फिर मुस्कुराएगा इंडिया...\n\nफिर जीत जाएगा इंडिया...\n\nIndia will fight. India will win! \n\nGood initiative by our film… https://t.co/8nQMHFCb7N",
+		"result": {
+			"score": 6,
+			"comparative": 0.2727272727272727,
+			"calculation": [
+				{
+					"good": 3
+				},
+				{
+					"win": 4
+				},
+				{
+					"fight": -1
+				}
+			],
+			"tokens": [
+				"फिर",
+				"मुस्कुराएगा",
+				"इंडिया",
+				"फिर",
+				"जीत",
+				"जाएगा",
+				"इंडिया",
+				"india",
+				"will",
+				"fight",
+				"india",
+				"will",
+				"win",
+				"good",
+				"initiative",
+				"by",
+				"our",
+				"film…",
+				"https",
+				"t",
+				"co",
+				"8nqmhfcb7n"
+			],
+			"words": [
+				"good",
+				"win",
+				"fight"
+			],
+			"positive": [
+				"good",
+				"win"
+			],
+			"negative": [
+				"fight"
+			]
+		}
+	},
+	{
+		"tweet": "This #WorldHealthDay, let us also ensure we follow practices like social distancing which will protect our own live… https://t.co/k18mwEug24",
+		"result": {
+			"score": 4,
+			"comparative": 0.18181818181818182,
+			"calculation": [
+				{
+					"protect": 1
+				},
+				{
+					"like": 2
+				},
+				{
+					"ensure": 1
+				}
+			],
+			"tokens": [
+				"this",
+				"worldhealthday",
+				"let",
+				"us",
+				"also",
+				"ensure",
+				"we",
+				"follow",
+				"practices",
+				"like",
+				"social",
+				"distancing",
+				"which",
+				"will",
+				"protect",
+				"our",
+				"own",
+				"live…",
+				"https",
+				"t",
+				"co",
+				"k18mweug24"
+			],
+			"words": [
+				"protect",
+				"like",
+				"ensure"
+			],
+			"positive": [
+				"protect",
+				"like",
+				"ensure"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Today on #WorldHealthDay, let us not only pray for each other’s good health and well-being but also reaffirm our gr… https://t.co/uvayqt2BQf",
+		"result": {
+			"score": 6,
+			"comparative": 0.25,
+			"calculation": [
+				{
+					"well-being": 2
+				},
+				{
+					"good": 3
+				},
+				{
+					"pray": 1
+				}
+			],
+			"tokens": [
+				"today",
+				"on",
+				"worldhealthday",
+				"let",
+				"us",
+				"not",
+				"only",
+				"pray",
+				"for",
+				"each",
+				"other’s",
+				"good",
+				"health",
+				"and",
+				"well-being",
+				"but",
+				"also",
+				"reaffirm",
+				"our",
+				"gr…",
+				"https",
+				"t",
+				"co",
+				"uvayqt2bqf"
+			],
+			"words": [
+				"well-being",
+				"good",
+				"pray"
+			],
+			"positive": [
+				"well-being",
+				"good",
+				"pray"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Hang in there, Prime Minister @BorisJohnson!  Hope to see you out of hospital and in perfect health very soon.",
+		"result": {
+			"score": 5,
+			"comparative": 0.2631578947368421,
+			"calculation": [
+				{
+					"perfect": 3
+				},
+				{
+					"hope": 2
+				}
+			],
+			"tokens": [
+				"hang",
+				"in",
+				"there",
+				"prime",
+				"minister",
+				"@borisjohnson",
+				"hope",
+				"to",
+				"see",
+				"you",
+				"out",
+				"of",
+				"hospital",
+				"and",
+				"in",
+				"perfect",
+				"health",
+				"very",
+				"soon"
+			],
+			"words": [
+				"perfect",
+				"hope"
+			],
+			"positive": [
+				"perfect",
+				"hope"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Spoke to HM Hamad Bin Isa Al Khalifa, King of the Kingdom of Bahrain. We discussed the prevailing situation due to… https://t.co/WnUVKoqluv",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [],
+			"tokens": [
+				"spoke",
+				"to",
+				"hm",
+				"hamad",
+				"bin",
+				"isa",
+				"al",
+				"khalifa",
+				"king",
+				"of",
+				"the",
+				"kingdom",
+				"of",
+				"bahrain",
+				"we",
+				"discussed",
+				"the",
+				"prevailing",
+				"situation",
+				"due",
+				"to…",
+				"https",
+				"t",
+				"co",
+				"wnuvkoqluv"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "During the meeting, highlighted why it is important to reiterate the need for social distancing, steps to ensure we… https://t.co/tKRytEJ8VP",
+		"result": {
+			"score": 3,
+			"comparative": 0.13043478260869565,
+			"calculation": [
+				{
+					"ensure": 1
+				},
+				{
+					"important": 2
+				}
+			],
+			"tokens": [
+				"during",
+				"the",
+				"meeting",
+				"highlighted",
+				"why",
+				"it",
+				"is",
+				"important",
+				"to",
+				"reiterate",
+				"the",
+				"need",
+				"for",
+				"social",
+				"distancing",
+				"steps",
+				"to",
+				"ensure",
+				"we…",
+				"https",
+				"t",
+				"co",
+				"tkrytej8vp"
+			],
+			"words": [
+				"ensure",
+				"important"
+			],
+			"positive": [
+				"ensure",
+				"important"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Had a fruitful interaction with the Council of Ministers today on the COVID-19 situation. Ministerial colleagues sh… https://t.co/3wQvMT8DFa",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [],
+			"tokens": [
+				"had",
+				"a",
+				"fruitful",
+				"interaction",
+				"with",
+				"the",
+				"council",
+				"of",
+				"ministers",
+				"today",
+				"on",
+				"the",
+				"covid-19",
+				"situation",
+				"ministerial",
+				"colleagues",
+				"sh…",
+				"https",
+				"t",
+				"co",
+				"3wqvmt8dfa"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "जबसे कोरोना संकट शुरू हुआ है, तबसे भाजपा के लाखों कार्यकर्ता दिन-रात गरीबों की मदद करने में जुटे हैं।\n \nपार्टी के 4… https://t.co/8DQU0IU8Xc",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [],
+			"tokens": [
+				"जबसे",
+				"कोरोना",
+				"संकट",
+				"शुरू",
+				"हुआ",
+				"है",
+				"तबसे",
+				"भाजपा",
+				"के",
+				"लाखों",
+				"कार्यकर्ता",
+				"दिन-रात",
+				"गरीबों",
+				"की",
+				"मदद",
+				"करने",
+				"में",
+				"जुटे",
+				"हैं।",
+				"पार्टी",
+				"के",
+				"4…",
+				"https",
+				"t",
+				"co",
+				"8dqu0iu8xc"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "130 करोड़ देशवासियों की महाशक्ति के महाप्रयास से जन्मे महाप्रकाश ने देश को लंबी लड़ाई के लिए तैयार किया है। \n\nआज दे… https://t.co/n2K2V0jfs7",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [],
+			"tokens": [
+				"130",
+				"करोड़",
+				"देशवासियों",
+				"की",
+				"महाशक्ति",
+				"के",
+				"महाप्रयास",
+				"से",
+				"जन्मे",
+				"महाप्रकाश",
+				"ने",
+				"देश",
+				"को",
+				"लंबी",
+				"लड़ाई",
+				"के",
+				"लिए",
+				"तैयार",
+				"किया",
+				"है।",
+				"आज",
+				"दे…",
+				"https",
+				"t",
+				"co",
+				"n2k2v0jfs7"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Spoke on phone to PM @ScottMorrisonMP of Australia. We agreed to cooperate against COVID-19, including through coll… https://t.co/jRBn6L1981",
+		"result": {
+			"score": 1,
+			"comparative": 0.047619047619047616,
+			"calculation": [
+				{
+					"agreed": 1
+				}
+			],
+			"tokens": [
+				"spoke",
+				"on",
+				"phone",
+				"to",
+				"pm",
+				"@scottmorrisonmp",
+				"of",
+				"australia",
+				"we",
+				"agreed",
+				"to",
+				"cooperate",
+				"against",
+				"covid-19",
+				"including",
+				"through",
+				"coll…",
+				"https",
+				"t",
+				"co",
+				"jrbn6l1981"
+			],
+			"words": [
+				"agreed"
+			],
+			"positive": [
+				"agreed"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Addressing BJP Karyakartas. #BJPat40 https://t.co/aTZDkj3AA4",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [],
+			"tokens": [
+				"addressing",
+				"bjp",
+				"karyakartas",
+				"bjpat40",
+				"https",
+				"t",
+				"co",
+				"atzdkj3aa4"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	}
+]

@@ -1,0 +1,715 @@
+[
+	{
+		"tweet": "Jesus is up here turning water into hydroxychloroqwine.",
+		"result": {
+			"score": 1,
+			"comparative": 0.125,
+			"calculation": [
+				{
+					"jesus": 1
+				}
+			],
+			"tokens": [
+				"jesus",
+				"is",
+				"up",
+				"here",
+				"turning",
+				"water",
+				"into",
+				"hydroxychloroqwine"
+			],
+			"words": [
+				"jesus"
+			],
+			"positive": [
+				"jesus"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "I'm God, I'm omniscient, I'm the Creator of the Universe, and even I can't believe this shit.",
+		"result": {
+			"score": -3,
+			"comparative": -0.17647058823529413,
+			"calculation": [
+				{
+					"shit": -4
+				},
+				{
+					"god": 1
+				}
+			],
+			"tokens": [
+				"i'm",
+				"god",
+				"i'm",
+				"omniscient",
+				"i'm",
+				"the",
+				"creator",
+				"of",
+				"the",
+				"universe",
+				"and",
+				"even",
+				"i",
+				"can't",
+				"believe",
+				"this",
+				"shit"
+			],
+			"words": [
+				"shit",
+				"god"
+			],
+			"positive": [
+				"god"
+			],
+			"negative": [
+				"shit"
+			]
+		}
+	},
+	{
+		"tweet": "What doesn't kill you makes you stay home.",
+		"result": {
+			"score": 3,
+			"comparative": 0.375,
+			"calculation": [
+				{
+					"kill": 3
+				}
+			],
+			"tokens": [
+				"what",
+				"doesn't",
+				"kill",
+				"you",
+				"makes",
+				"you",
+				"stay",
+				"home"
+			],
+			"words": [
+				"kill"
+			],
+			"positive": [
+				"kill"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "I work from home in mysterious ways.",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [],
+			"tokens": [
+				"i",
+				"work",
+				"from",
+				"home",
+				"in",
+				"mysterious",
+				"ways"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Counting on Me to fix the virus?\n\nYou're wrong, and I'll tell you why in a few weeks when I see you in person.",
+		"result": {
+			"score": -2,
+			"comparative": -0.08333333333333333,
+			"calculation": [
+				{
+					"wrong": -2
+				}
+			],
+			"tokens": [
+				"counting",
+				"on",
+				"me",
+				"to",
+				"fix",
+				"the",
+				"virus",
+				"you're",
+				"wrong",
+				"and",
+				"i'll",
+				"tell",
+				"you",
+				"why",
+				"in",
+				"a",
+				"few",
+				"weeks",
+				"when",
+				"i",
+				"see",
+				"you",
+				"in",
+				"person"
+			],
+			"words": [
+				"wrong"
+			],
+			"positive": [],
+			"negative": [
+				"wrong"
+			]
+		}
+	},
+	{
+		"tweet": "Presenting the audiobook of My play 'An Act of God', starring Sean Hayes, now on sale for the amazing price of ZERO… https://t.co/1kqlw81r4L",
+		"result": {
+			"score": 4,
+			"comparative": 0.15384615384615385,
+			"calculation": [
+				{
+					"amazing": 4
+				}
+			],
+			"tokens": [
+				"presenting",
+				"the",
+				"audiobook",
+				"of",
+				"my",
+				"play",
+				"'an",
+				"act",
+				"of",
+				"god'",
+				"starring",
+				"sean",
+				"hayes",
+				"now",
+				"on",
+				"sale",
+				"for",
+				"the",
+				"amazing",
+				"price",
+				"of",
+				"zero…",
+				"https",
+				"t",
+				"co",
+				"1kqlw81r4l"
+			],
+			"words": [
+				"amazing"
+			],
+			"positive": [
+				"amazing"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Sooner or later the death rate is 100%.",
+		"result": {
+			"score": -2,
+			"comparative": -0.25,
+			"calculation": [
+				{
+					"death": -2
+				}
+			],
+			"tokens": [
+				"sooner",
+				"or",
+				"later",
+				"the",
+				"death",
+				"rate",
+				"is",
+				"100"
+			],
+			"words": [
+				"death"
+			],
+			"positive": [],
+			"negative": [
+				"death"
+			]
+		}
+	},
+	{
+		"tweet": "See you all soon! https://t.co/5jOFIb48wC",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [],
+			"tokens": [
+				"see",
+				"you",
+				"all",
+				"soon",
+				"https",
+				"t",
+				"co",
+				"5jofib48wc"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Everyone's asking to skip forward to 2021.\n\nTrust Me, you don't want that.",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [
+				{
+					"want": -1
+				},
+				{
+					"trust": 1
+				}
+			],
+			"tokens": [
+				"everyone's",
+				"asking",
+				"to",
+				"skip",
+				"forward",
+				"to",
+				"2021",
+				"trust",
+				"me",
+				"you",
+				"don't",
+				"want",
+				"that"
+			],
+			"words": [
+				"want",
+				"trust"
+			],
+			"positive": [
+				"trust"
+			],
+			"negative": [
+				"want"
+			]
+		}
+	},
+	{
+		"tweet": "I didn't send it.\nI didn't spread it.\nI can't prevent it.\nI can't cure it.\nI'm not punishing you.\nI'm not protectin… https://t.co/FBAPadMz40",
+		"result": {
+			"score": 3,
+			"comparative": 0.1111111111111111,
+			"calculation": [
+				{
+					"punishing": 2
+				},
+				{
+					"prevent": 1
+				}
+			],
+			"tokens": [
+				"i",
+				"didn't",
+				"send",
+				"it",
+				"i",
+				"didn't",
+				"spread",
+				"it",
+				"i",
+				"can't",
+				"prevent",
+				"it",
+				"i",
+				"can't",
+				"cure",
+				"it",
+				"i'm",
+				"not",
+				"punishing",
+				"you",
+				"i'm",
+				"not",
+				"protectin…",
+				"https",
+				"t",
+				"co",
+				"fbapadmz40"
+			],
+			"words": [
+				"punishing",
+				"prevent"
+			],
+			"positive": [
+				"punishing",
+				"prevent"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Donald Trump is the smallest man who ever lived.",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [],
+			"tokens": [
+				"donald",
+				"trump",
+				"is",
+				"the",
+				"smallest",
+				"man",
+				"who",
+				"ever",
+				"lived"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Somewhere in China there's a bat getting high-fives from every other animal he sees.",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [],
+			"tokens": [
+				"somewhere",
+				"in",
+				"china",
+				"there's",
+				"a",
+				"bat",
+				"getting",
+				"high-fives",
+				"from",
+				"every",
+				"other",
+				"animal",
+				"he",
+				"sees"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "The President's re-election strategy is to have no one left alive to vote him out.",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [
+				{
+					"alive": 1
+				},
+				{
+					"no": -1
+				}
+			],
+			"tokens": [
+				"the",
+				"president's",
+				"re-election",
+				"strategy",
+				"is",
+				"to",
+				"have",
+				"no",
+				"one",
+				"left",
+				"alive",
+				"to",
+				"vote",
+				"him",
+				"out"
+			],
+			"words": [
+				"alive",
+				"no"
+			],
+			"positive": [
+				"alive"
+			],
+			"negative": [
+				"no"
+			]
+		}
+	},
+	{
+		"tweet": "It's almost as if electing a narcissistic sociopath to lead your country was a bad idea.",
+		"result": {
+			"score": -3,
+			"comparative": -0.1875,
+			"calculation": [
+				{
+					"bad": -3
+				}
+			],
+			"tokens": [
+				"it's",
+				"almost",
+				"as",
+				"if",
+				"electing",
+				"a",
+				"narcissistic",
+				"sociopath",
+				"to",
+				"lead",
+				"your",
+				"country",
+				"was",
+				"a",
+				"bad",
+				"idea"
+			],
+			"words": [
+				"bad"
+			],
+			"positive": [],
+			"negative": [
+				"bad"
+			]
+		}
+	},
+	{
+		"tweet": "RT @TheTweetOfGod: In an ideal scenario the President of the United States and the worst human being in the world would be two different pe…",
+		"result": {
+			"score": -2,
+			"comparative": -0.08,
+			"calculation": [
+				{
+					"worst": -3
+				},
+				{
+					"united": 1
+				}
+			],
+			"tokens": [
+				"rt",
+				"@thetweetofgod",
+				"in",
+				"an",
+				"ideal",
+				"scenario",
+				"the",
+				"president",
+				"of",
+				"the",
+				"united",
+				"states",
+				"and",
+				"the",
+				"worst",
+				"human",
+				"being",
+				"in",
+				"the",
+				"world",
+				"would",
+				"be",
+				"two",
+				"different",
+				"pe…"
+			],
+			"words": [
+				"worst",
+				"united"
+			],
+			"positive": [
+				"united"
+			],
+			"negative": [
+				"worst"
+			]
+		}
+	},
+	{
+		"tweet": "Apparently America is more important than Americans.",
+		"result": {
+			"score": 2,
+			"comparative": 0.2857142857142857,
+			"calculation": [
+				{
+					"important": 2
+				}
+			],
+			"tokens": [
+				"apparently",
+				"america",
+				"is",
+				"more",
+				"important",
+				"than",
+				"americans"
+			],
+			"words": [
+				"important"
+			],
+			"positive": [
+				"important"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "The kind of people who want to assemble in large groups right now are exactly the kind of people who ought to.",
+		"result": {
+			"score": 5,
+			"comparative": 0.22727272727272727,
+			"calculation": [
+				{
+					"kind": 2
+				},
+				{
+					"want": 1
+				},
+				{
+					"kind": 2
+				}
+			],
+			"tokens": [
+				"the",
+				"kind",
+				"of",
+				"people",
+				"who",
+				"want",
+				"to",
+				"assemble",
+				"in",
+				"large",
+				"groups",
+				"right",
+				"now",
+				"are",
+				"exactly",
+				"the",
+				"kind",
+				"of",
+				"people",
+				"who",
+				"ought",
+				"to"
+			],
+			"words": [
+				"kind",
+				"want",
+				"kind"
+			],
+			"positive": [
+				"kind",
+				"want",
+				"kind"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "Six feet away or six feet under.",
+		"result": {
+			"score": 0,
+			"comparative": 0,
+			"calculation": [],
+			"tokens": [
+				"six",
+				"feet",
+				"away",
+				"or",
+				"six",
+				"feet",
+				"under"
+			],
+			"words": [],
+			"positive": [],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "If America is willing to sacrifice its senior citizens for the good of the country I have an idea where to start.",
+		"result": {
+			"score": 3,
+			"comparative": 0.13636363636363635,
+			"calculation": [
+				{
+					"good": 3
+				}
+			],
+			"tokens": [
+				"if",
+				"america",
+				"is",
+				"willing",
+				"to",
+				"sacrifice",
+				"its",
+				"senior",
+				"citizens",
+				"for",
+				"the",
+				"good",
+				"of",
+				"the",
+				"country",
+				"i",
+				"have",
+				"an",
+				"idea",
+				"where",
+				"to",
+				"start"
+			],
+			"words": [
+				"good"
+			],
+			"positive": [
+				"good"
+			],
+			"negative": []
+		}
+	},
+	{
+		"tweet": "The stupid will kill you all.",
+		"result": {
+			"score": -5,
+			"comparative": -0.8333333333333334,
+			"calculation": [
+				{
+					"kill": -3
+				},
+				{
+					"stupid": -2
+				}
+			],
+			"tokens": [
+				"the",
+				"stupid",
+				"will",
+				"kill",
+				"you",
+				"all"
+			],
+			"words": [
+				"kill",
+				"stupid"
+			],
+			"positive": [],
+			"negative": [
+				"kill",
+				"stupid"
+			]
+		}
+	}
+]
