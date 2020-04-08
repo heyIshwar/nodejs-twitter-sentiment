@@ -9,7 +9,9 @@ console.log(`Project Name: Twitter Sentimental Analysis`)
 console.log(`Author Name: Ishwar Sarade`)
 console.log(`Author Email: ishwar@some1.in`)
 console.log(`Author Github: https://github.com/heyIshwar\n`)
+
 // setting up client using API keys
+// create your keys by creating app on https://developer.twitter.com/en/apps/
 let client = new Twitter({
   consumer_key: '',
   consumer_secret: '',
