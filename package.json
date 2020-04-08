@@ -1,7 +1,6 @@
 {
 	"name": "twitter-sentimental-analysis",
 	"version": "1.2.3",
-	"name": "Ishwar Sarade",
 	"email": "ishwar.sarade@gmail.com",
 	"url": "https://github.com/heyIshwar/",
 	"description": "Fetched tweets using API and performs sentimental analysis.",
@@ -9,5 +8,8 @@
 	"dependencies": {
 		"twitter": "latest",
 		"sentiment": "latest"
+	},
+	"scripts": {
+		"start": "node app.js"
 	}
 }
